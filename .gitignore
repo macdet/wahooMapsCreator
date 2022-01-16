@@ -5,6 +5,7 @@
 
 # top level
 /dist
+/build
 /envs
 osmconvert_tempfile.*
 
